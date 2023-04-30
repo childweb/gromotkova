@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <title>Громоткова Мария</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <p>Громоткова Мария</p>
+    </header>
+    <main>
+      <nav>
+        <a class="link-nav" href="mysites.html"><b>обо мне</b></a>
+        <a class="link-nav" href="info.html"><b>7 причин почему мы должны завести собаку</b></a>
+      </nav>
+      <h1>веб-сайты<br/> разработчик</h1>
+      <p>разметка и стилизация</p>
+      <p>вёрстка сетчатых макетов</p>
+      <p>двумерные анимации и интерактивные элементы</p>
+      <p>мультимедиа на сайте</p>
+      
+      <div class="frame">
+  <img src="https://backoffice.algoritmika.org/uploads/2021/04/carousel-1684591_0_1618254197.svg" alt="Nature">
+</div>
+    </main>
+  </body>
+      </html>
