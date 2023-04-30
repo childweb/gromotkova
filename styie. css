@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    background-color: #A168D5;
+}
+
+main p {
+    color: #FFF200;
+}
+ .link-nav:hover{
+     color: #FFF200;
+ }
+
+ main img {
+     border: yellow;
+ }
+
+ .frame {
+width: 830px;
+height: 550px;
+border: 10px dotted #FFF200;
+margin: 3px 3px;
+padding: 3px 3px;
+}
+img {
+width: 100%;
+height: 100%;
+}
